@@ -8,7 +8,7 @@
 
 [Файл haproxy.cfg](https://github.com/DubininDenis/haproxy/blob/main/1/haproxy.cfg)
 
-`
+
 ![1](https://github.com/DubininDenis/haproxy/blob/main/1.png)`
 
 ---
@@ -25,7 +25,7 @@
 
 
 
-`
+
 ![2](https://github.com/DubininDenis/haproxy/blob/main/2.png)`
 
 
